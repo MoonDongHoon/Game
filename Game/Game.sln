@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Common", "Common\Common.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graphic", "Graphic\Graphic.vcxproj", "{563129B6-8B7A-456F-A2AB-050943C23592}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "frameWork", "frameWork\frameWork.vcxproj", "{5BA13547-CDCB-4D8B-B261-731C2BCEFBD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{563129B6-8B7A-456F-A2AB-050943C23592}.Debug|Win32.Build.0 = Debug|Win32
 		{563129B6-8B7A-456F-A2AB-050943C23592}.Release|Win32.ActiveCfg = Release|Win32
 		{563129B6-8B7A-456F-A2AB-050943C23592}.Release|Win32.Build.0 = Release|Win32
+		{5BA13547-CDCB-4D8B-B261-731C2BCEFBD8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5BA13547-CDCB-4D8B-B261-731C2BCEFBD8}.Debug|Win32.Build.0 = Debug|Win32
+		{5BA13547-CDCB-4D8B-B261-731C2BCEFBD8}.Release|Win32.ActiveCfg = Release|Win32
+		{5BA13547-CDCB-4D8B-B261-731C2BCEFBD8}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
